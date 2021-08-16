@@ -1,6 +1,6 @@
--Hi, I’m @parvatraj2
--I’m interested in Software Development and Cyber Security.
--I’m currently learning Software Development
+- Hi, I’m @parvatraj2
+- I’m interested in Software Development and Cyber Security.
+- I’m currently learning Software Development
 - How to reach me parvat.raj2@gmail.com and (+91)7000229783
 
 <!---
