@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parvat Raj Singh</h1>
 <h3 align="center">A Fullstack Web Dev</h3>
 
+<h5>Note: "I am currently seeking a new job opportunity"</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvatraj2&label=Profile%20views&color=0e75b6&style=flat" alt="parvatraj2" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvatraj2" alt="parvatraj2" /></a> </p> -->
