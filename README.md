@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [The-Cozy-Corner-Cafe](https://github.com/parvatraj2/The-Cozy-Corner-Cafe)
 
-- 🌱 I’m currently learning **Web development and Web3**
+- 🌱 I’m currently learning **NextJS **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-parvat.web.app/](https://portfolio-parvat.web.app/)
 
